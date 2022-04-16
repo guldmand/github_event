@@ -2,7 +2,6 @@
 Basic github and github projects beta usage <br>
 Event held in french so i did not understand it all <br>
 Thanks for hosting the event blacky_yg <br>
-Feel free to review and approve the pull request :)! <br>
 
 ## 16.04.20022
   
