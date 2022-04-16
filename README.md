@@ -1,7 +1,6 @@
 # github_event
 Basic github and github projects beta usage
 
-
 ## 16.04.20022
   Event Hosted by https://twitter.com/blacky_yg <br>
   Event URL https://twitter.com/blacky_yg/status/1513515882303168519 <br>
@@ -17,5 +16,7 @@ Basic github and github projects beta usage
     Note: (Status checks that are required.) <br>
 
 ### Project Beta Workflows
-  * New Tasks automatic added to "todo"  <br>
-  * Closed Task/Pull-Requests automatic requests added to "done"  <br>
+  * New Item automatic added to "Todo" in the project board  <br>
+  * Closed Item automatic added to "Done" in the project board  when Pull-Requests is merged <br>
+  * When code change is request the Item is automatic added to "Under Review" in the project board  <br>
+  * When Item is reopened, the item is automatic re-added to "Todo" in the project board  <br>
