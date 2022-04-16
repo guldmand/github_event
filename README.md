@@ -6,18 +6,20 @@ Basic github and github projects beta usage
   
   ###  Event Hosted by
   Hamidou TESSILIMI  <br>
-  https://twitter.com/blacky_yg/  <br>
-  https://www.linkedin.com/in/hamidou-tessilimi-03820a170/   <br>
-  Event time 17:00 - 18:30 GMT+2 <br>
+  Twitter: https://twitter.com/blacky_yg/  <br>
+  Linkedin: https://www.linkedin.com/in/hamidou-tessilimi-03820a170/   <br>
+  <br>
+  Event time: 17:00 - 18:30 GMT+2 <br>
   Event URL https://twitter.com/blacky_yg/status/1513515882303168519 <br>
-  Event Registration url
-  Event teams url
+  Event Registration url https://tiny.cc/github_project <br>
+  Event teams url https://tiny.cc/github_msteams   <br>
   
   ###  Github Repo
-  Github Repository https://github.com/guldmand/github_event  <br>
-  Github Issues https://github.com/guldmand/github_event/issues <br>
-  Github Project https://github.com/users/guldmand/projects/2/ <br>
-  Github Project Board https://github.com/users/guldmand/projects/2/views/2 <br>
+  Webpage https://guldmand.github.io/github_event/ <br>
+  Repository https://github.com/guldmand/github_event  <br>
+  Issues https://github.com/guldmand/github_event/issues <br>
+  Project https://github.com/users/guldmand/projects/2/ <br>
+  Project Board https://github.com/users/guldmand/projects/2/views/2 <br>
   
  ### Repo Branch Rules
  *  Branch protection rule created  <br>
