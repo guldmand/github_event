@@ -14,7 +14,7 @@ Basic github and github projects beta usage
   Event teams url
   
   ###  Github Repo
-  Github Repository https://github.com/guldmand/github_event
+  Github Repository https://github.com/guldmand/github_event  <br>
   Github Issues https://github.com/guldmand/github_event/issues <br>
   Github Project https://github.com/users/guldmand/projects/2/ <br>
   Github Project Board https://github.com/users/guldmand/projects/2/views/2 <br>
