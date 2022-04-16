@@ -1,4 +1,9 @@
 # github_event
+Basic github and github projects beta usage
+
+## Project Beta Board Workflows added
+New Tasks automatic added to #todo
+Closed Task/Pull automatic requests added to #done
 
 ## 16.04.20022
 Event Hosted by https://twitter.com/blacky_yg <br>
