@@ -4,7 +4,6 @@ Event held in french so i did not understand it all <br>
 Thanks for hosting the event blacky_yg <br>
 Feel free to review and approve the pull request :)! <br>
 
-
 ## 16.04.20022
   
 ###  Event Hosted by <br>
@@ -32,6 +31,8 @@ Project Board https://github.com/users/guldmand/projects/2/views/2 <br>
   * Require branches to be up to date before merging   <br>
   Note: (Status checks that are required.) <br>
 
-### Repo Project Beta Workflows
-  * New Tasks automatic added to "todo"  <br>
-  * Closed Task/Pull-Requests automatic requests added to "done"  <br>
+### Project Beta Workflows
+  * New Item automatic added to "Todo" in the project board  <br>
+  * Closed Item automatic added to "Done" in the project board  when Pull-Requests is merged <br>
+  * When code change is request the Item is automatic added to "Under Review" in the project board  <br>
+  * When Item is reopened, the item is automatic re-added to "Todo" in the project board  <br>
