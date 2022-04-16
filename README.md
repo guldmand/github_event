@@ -1,5 +1,7 @@
 # github_event
 Basic github and github projects beta usage
+Event held in french so i did not understand everything
+Thanks for hosting the event blacky_yg
 
 
 ## 16.04.20022
