@@ -9,6 +9,7 @@ Thanks for hosting the event blacky_yg <br>
 Hamidou TESSILIMI  <br>
 Twitter: https://twitter.com/blacky_yg/  <br>
 Linkedin: https://www.linkedin.com/in/hamidou-tessilimi-03820a170/   <br>
+#MSFTStudentAmbassadors  <br>
 <br>
 Event time: 17:00 - 18:30 GMT+2 <br>
 Event URL https://twitter.com/blacky_yg/status/1513515882303168519 <br>
