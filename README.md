@@ -4,7 +4,7 @@ Basic github and github projects beta usage
 
 ## 16.04.20022
   
-###  Event Hosted by
+###  Event Hosted by <br>
 Hamidou TESSILIMI  <br>
 Twitter: https://twitter.com/blacky_yg/  <br>
 Linkedin: https://www.linkedin.com/in/hamidou-tessilimi-03820a170/   <br>
@@ -14,7 +14,7 @@ Event URL https://twitter.com/blacky_yg/status/1513515882303168519 <br>
 Event Registration url https://tiny.cc/github_project <br>
 Event teams url https://tiny.cc/github_msteams   <br>
 
-###  Github Repo
+###  Github Repo <br>
 Webpage https://guldmand.github.io/github_event/ <br>
 Repository https://github.com/guldmand/github_event  <br>
 Issues https://github.com/guldmand/github_event/issues <br>
