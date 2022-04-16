@@ -11,4 +11,4 @@ Basic github and github projects beta usage
 
 ### Project Beta Workflows
   * New Tasks automatic added to "todo"  <br>
-  * Closed Task/Pull automatic requests added to "done"  <br>
+  * Closed Task/Pull-Requests automatic requests added to "done"  <br>
